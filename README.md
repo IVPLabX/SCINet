@@ -55,7 +55,7 @@ For more training commands and details, please check the docs in [BasicSR](https
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper:
-```
+```bibtex
 @article{2024TGRS_SCINet,
   title     = {{SCINet}: Spatial and Contrast Interactive Super-Resolution Assisted Infrared {UAV} Target Detection},
   author    = {Houzhang Fang and Lan Ding and Xiaolin Wang and Yi Chang and Luxin Yan and Li Liu and Jinrui Fang},
@@ -67,7 +67,7 @@ If you find our work useful for your research, please consider citing our paper:
 ```
 
 In additoin to the above paper, please also consider citing the following references. Thank you!
-```
+```bibtex
 @inproceedings{2025CVPR_UniCD,
     title     = {Detection-Friendly Nonuniformity Correction: A Union Framework for Infrared {UAV} Target Detection},
     author    = {Houzhang Fang and Xiaolin Wang and Zengyang Li and Lu Wang and Qingshan Li and Yi Chang and Luxin Yan},
@@ -112,4 +112,5 @@ Some of the SR code is based on [BasicSR](https://github.com/XPixelGroup/BasicSR
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
+
 
