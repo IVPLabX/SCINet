@@ -1,7 +1,20 @@
-Official repository of our TGRS 2024 paper "SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection".
+<div align="center">
+  
+## SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection 
 
-## SCINet: Spatial and Contrast Interactive Super-Resolution Assisted Infrared UAV Target Detection [[PDF](https://ieeexplore.ieee.org/document/10701558)],  Supplemental Material [[PDF](https://ieeexplore.ieee.org/document/10701558/media#media)] 
-Authors: Houzhang Fang; Lan Ding; Xiaolin Wang; Yi Chang; Luxin Yan; Li Liu; Jinrui Fang
+Authors: Houzhang Fang<sup>1</sup>, Lan Ding<sup>1</sup>, Xiaolin Wang<sup>1</sup>, Yi Chang<sup>2</sup>, Luxin Yan<sup>2</sup>, Li Liu<sup>1</sup>, Jinrui Fang<sup>3</sup>
+  
+<sup>1</sup>Xidian University, <sup>2</sup>Huazhong University of Science and Technology, <sup>3</sup>New York University
+
+**IEEE Transactions on Geoscience and Remote Sensing (TGRS) 2024**
+
+<h4>
+  <a href="https://ieeexplore.ieee.org/document/10701558">[PDF|IEEE]</a>
+  <a href="https://ieeexplore.ieee.org/document/10701558/media#media">[Supplementary Material]</a>
+  <a href="#citation">[BibTex]</a>
+</h4>
+
+</div>
 
 ## Abstract
 
@@ -112,5 +125,6 @@ Some of the SR code is based on [BasicSR](https://github.com/XPixelGroup/BasicSR
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
+
 
 
