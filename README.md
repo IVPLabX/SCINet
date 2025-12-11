@@ -40,18 +40,6 @@ pip install -r requirements.txt
 python setup.py develop
 ```
 
-## How To Test
-
-· Refer to ./options/test for the configuration file of the model to be tested, and prepare the testing data and pretrained model.  
-· The pretrained models are available in ./experiments/pretrained_models/  
-· Then run the follwing codes (taking net_g_SCINet_x4.pth as an example):  
-
-```shell
-python basicsr/test.py -opt options/test/benchmark_SCINet_x4.yml
-```
-
-The testing results will be saved in the ./results folder.
-
 ## How To Train
 
 · Refer to ./options/train for the configuration file of the model to train.  
@@ -65,6 +53,19 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch --nproc_per_node
 ```
 
 For more training commands and details, please check the docs in [BasicSR](https://github.com/XPixelGroup/BasicSR)  
+
+## How To Test
+
+· Refer to ./options/test for the configuration file of the model to be tested, and prepare the testing data and pretrained model.  
+· The pretrained models are available in ./experiments/pretrained_models/  
+· Then run the follwing codes (taking net_g_SCINet_x4.pth as an example):  
+
+```shell
+python basicsr/test.py -opt options/test/benchmark_SCINet_x4.yml
+```
+
+The testing results will be saved in the ./results folder.
+
 
 ## Citation
 If you find our work useful for your research, please consider citing our paper:
@@ -125,6 +126,7 @@ Some of the SR code is based on [BasicSR](https://github.com/XPixelGroup/BasicSR
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
+
 
 
 
