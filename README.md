@@ -89,6 +89,20 @@ In additoin to the above paper, please also consider citing the following refere
     year      = {2025},
     pages     = {11898-11907},
 }
+@inproceedings{2026AAAI_TDCNet,
+  title     = {Spatio-Temporal Context Learning with Temporal Difference Convolution for Moving Infrared Small Target Detection},
+  author    = {Houzhang Fang and Shukai Guo and Qiuhuan Chen and Yi Chang and Luxin Yan},
+  booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2026},
+  pages     = { },
+}
+@inproceedings{2026AAAI_JFD3,
+  title     = {Blur-Robust Detection via Feature Restoration: An End-to-End Framework for Prior-Guided Infrared UAV Target Detection},
+  author    = {Xiaolin Wang and Houzhang Fang and Qingshan Li and Lu Wang and Yi Chang and Luxin Yan},
+  booktitle   = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2026},
+  pages     = { },
+}
 @ARTICLE{2023TII_DAGNet,
   title     =  {Differentiated Attention Guided Network Over Hierarchical and Aggregated Features for Intelligent {UAV} Surveillance},
   author    =  {Houzhang Fang and Zikai Liao and Xuhua Wang and Yi Chang and Luxin Yan},
@@ -126,6 +140,7 @@ Some of the SR code is based on [BasicSR](https://github.com/XPixelGroup/BasicSR
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
+
 
 
 
