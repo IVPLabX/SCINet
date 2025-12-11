@@ -9,7 +9,7 @@ Authors: Houzhang Fang<sup>1</sup>, Lan Ding<sup>1</sup>, Xiaolin Wang<sup>1</su
 **IEEE Transactions on Geoscience and Remote Sensing (TGRS) 2024**
 
 <h4>
-  <a href="https://ieeexplore.ieee.org/document/10701558">[PDF|IEEE]</a>
+  <a href="https://ieeexplore.ieee.org/document/10701558">[Paper PDF|IEEE]</a>
   <a href="https://ieeexplore.ieee.org/document/10701558/media#media">[Supplementary Material]</a>
   <a href="#citation">[BibTex]</a>
 </h4>
@@ -140,6 +140,7 @@ Some of the SR code is based on [BasicSR](https://github.com/XPixelGroup/BasicSR
 
 ## License
 MIT License. This code is only freely available for non-commercial research use.
+
 
 
 
